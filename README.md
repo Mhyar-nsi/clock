@@ -5,3 +5,6 @@
 <a href="https://github.com/Mhyar-nsi/clock"><img src="https://img.shields.io/github/languages/code-size/mhyar-nsi/clock?color=%23667eea&logo=github&style=for-the-badge"></a>
 </div><br>
 <img src="https://raw.githubusercontent.com/Mhyar-nsi/clock/main/img/screenshot.png">
+
+<hr>
+<p align="center">Made with ❤️</p>
